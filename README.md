@@ -1,6 +1,6 @@
 # Django на Amvera
 
-Простой пример деплоя Django в [Amvera](https://amvera.ru). 
+Простой пример деплоя Django в [Amvera](https://amvera.ru/django). 
 
 Это тестовое приложение показывает работу API, шаблонов, CSRF, статических файлов и персистентное сохранение SQlite в постоянное хранилище Amvera.
 
